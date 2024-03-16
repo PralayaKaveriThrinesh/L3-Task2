@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Management Tool</title>
+    <link rel="stylesheet" href="PMT.css">
+</head>
+<body>
+    <header>
+        <h1>Project Management Tool</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">Tasks</a></li>
+                <li><a href="#">Calendar</a></li>
+                <li><a href="#">Login</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>Project 1</li>
+                <li>Project 2</li>
+                <li>Project 3</li>
+                <!-- More projects here -->
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Project Management Tool</p>
+    </footer>
+</body>
+</html>
